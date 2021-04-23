@@ -27,13 +27,11 @@ Segment the beer into 6 classes using Kmeans and silhouette score.
 
 * There is a significant positive correlation between “Intensity of Flavour” and “Length of Aftertaste”, since the related axes are close.
 
-
 # 5. Product Innovation Score
 
 Calculate the cosine similarity between a product and its 10 nearest neighbors, and converted the probability to an Innovation score (from 0 to 100).
 
 ![product_location2](https://user-images.githubusercontent.com/64850893/115801461-d21fcf80-a3aa-11eb-94c6-5a0b654937e1.png)
-
 
 * The beer 718 has a higher innovation score, which can also be shown in the plot, since the distance between it (in red) and its neighbors is longer than that of the beer 268 (in green).
 
@@ -41,6 +39,8 @@ Calculate the cosine similarity between a product and its 10 nearest neighbors, 
 
 # 6. Data Modeling
 Executed data modeling with various regression models.
+
+https://github.com/BenLiu983/Beer_Popularity_Analysis/issues/4#issue-865649836
 
 * Lasso outperforms other models, in terms of the R square and RMSE.
 
