@@ -33,6 +33,7 @@ Segmented the beer into 6 classes using Kmeans and silhouette score.
 
 Calculated the cosine similarity between one product and its 10 nearest neighbors, and converted the probability to an Innovation score (from 0 to 100).
 
+![product_location2](https://user-images.githubusercontent.com/64850893/115801461-d21fcf80-a3aa-11eb-94c6-5a0b654937e1.png)
 
 
 * The beer 718 has a higher innovation score, which can also be shown in the plot, since the distance between it (in red) and its neighbors is longer than that of the beer 268 (in green).
