@@ -40,7 +40,7 @@ Calculate the cosine similarity between a product and its 10 nearest neighbors, 
 # 6. Data Modeling
 Executed data modeling with various regression models.
 
-https://github.com/BenLiu983/Beer_Popularity_Analysis/issues/4#issue-865649836
+![model_metric](https://user-images.githubusercontent.com/64850893/115804178-76584500-a3b0-11eb-9a87-bdd519a76683.png)
 
 * Lasso outperforms other models, in terms of the R square and RMSE.
 
