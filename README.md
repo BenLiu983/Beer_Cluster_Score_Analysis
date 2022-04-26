@@ -1,8 +1,8 @@
-# Beer Popularity Score Analysis based on Sensory Features
+# Beer Popularity Clustering and Score Analysis based on Sensory Features
 
 # 1. Introduction
 
-This R&D project is based on a dataset that contains product feature about 310 beer and sensory preference data from 10 customers. The complete dataset is from a food company in Canada, and it has been modified. 
+This R&D project is based on a dataset that contains product feature about 310 beer and sensory preference data from 10 customers. The complete dataset is from a food company in Canada, and it has been modified due to NDA. 
 
 # 2. Objectives
 
