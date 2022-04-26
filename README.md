@@ -1,4 +1,4 @@
-# Beer Popularity Clustering and Score Analysis based on Sensory Features
+# Beer Popularity Cluster Analysis and Score Prediction based on Sensory Features
 
 # 1. Introduction
 
